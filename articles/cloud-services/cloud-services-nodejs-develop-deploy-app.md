@@ -191,6 +191,7 @@ After deploying your application, you may want to disable it so you can avoid ex
 
 ## Next steps
 
+## this link below in no longer working- 404##
 For more information, see the [Node.js Developer Center](/develop/nodejs/).
 
 [The Windows Start menu with the Azure SDK Node.js entry expanded]: ./media/cloud-services-nodejs-develop-deploy-app/azure-powershell-menu.png
